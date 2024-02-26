@@ -19,7 +19,7 @@ _One-Shot Learning Example:_
 Prompt: "Decide whether a Tweet's sentiment is positive, neutral, or negative. Tweet: I really liked the Spiderman movie!"
 GPT-3 Response: "Positive"
 
-## Few-Shot Learning Example:
+_Few-Shot Learning Example:_
 Prompt: "Decide whether a Tweet's sentiment is positive, neutral, or negative. Tweet: I loved the new Batman movie! Sentiment:"
 Additional Example: "Tweet: The weather ruined my plans. Sentiment: Negative"
 GPT-3 Response: Based on the provided examples, GPT-3 makes predictions with enhanced accuracy.
